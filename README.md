@@ -28,7 +28,7 @@
 
 - :memo: User Registration (Success & Failure)
 - :lock: Login 
-- :shopping_bags: Add to Cart
+- :shopping_cart: Add to Cart
 - :credit_card: Checkout Flow
 
 ---
@@ -54,6 +54,7 @@ Screenshots are captured automatically for failed test cases and stored in: /scr
 ## :woman_technologist: Author
 
 Vidhya V
+
 Madurai, India  
 
 ---
