@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd">
+<suite name="demowebshop">
+<listeners>
+<listener class-name="listeners.TestListener"></listener>
+</listeners>
+<test name="demowebshop_automation">
+<classes>
+<class name="tests.RegistrationTest"/>
+<class name="tests.LoginTest"/>
+<class name="tests.AddToCartTest"/>
+<class name="tests.CheckoutTest"/>
+<class name="tests.RegistrationFailTest"/>
+</classes>
+</test>
+</suite>
