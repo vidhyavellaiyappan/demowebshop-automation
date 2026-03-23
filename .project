@@ -20,11 +20,4 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
-	<linkedResources>
-		<link>
-			<name>testcases/Manual_DemoWebShop_TestCases.xlsx</name>
-			<type>1</type>
-			<location>C:/Users/vidhu/OneDrive/ドキュメント/DemoWebShop_TestCases.xlsx</location>
-		</link>
-	</linkedResources>
 </projectDescription>
