@@ -33,6 +33,13 @@
 
 ---
 
+## :clipboard: Manual Test Cases
+
+Manual testing documentation is also included in this project.
+
+### 📁 Location
+testcases/Manual_DemoWebShop_TestCases.xlsx
+
 ---
 
 ## :arrow_forward: How to Run the Project
